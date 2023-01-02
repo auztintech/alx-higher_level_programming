@@ -2,7 +2,7 @@
 """Rectangle module
 This module contains a class that defines a rectangle
 """
-class Rectangle:
+class Rectangle():
     """ Defines a rectangle"""
 
     pass
