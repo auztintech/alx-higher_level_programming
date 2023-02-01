@@ -5,6 +5,4 @@ Contains an empty class BaseGeometry.
 
 
 class BaseGeometry():
-    """Defines the BaseGeometry class."""#!/usr/bin/python3
-"""BaseGeometry module.
-
+    """Defines the BaseGeometry class."""
