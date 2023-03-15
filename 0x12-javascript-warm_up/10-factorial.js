@@ -1,4 +1,6 @@
 #!/usr/bin/node
+
+
 const computeFactorial = (n) => {
   if (isNaN(parseInt(n))) {
     return 1;
